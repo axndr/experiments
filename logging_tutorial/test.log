@@ -1,0 +1,28 @@
+DEBUG:root:adt running. 
+DEBUG:root:add returned 15.
+
+DEBUG:root:mult running. 
+DEBUG:root:mult returned 50.
+
+DEBUG:root:add running. 
+DEBUG:root:add returned 15.
+
+DEBUG:root:mult running. 
+DEBUG:root:mult returned 50.
+
+DEBUG:root:1594836846.22535
+DEBUG:root:add running. 
+DEBUG:root:add returned 15.
+
+DEBUG:root:1594836846.22535
+DEBUG:root:mult running. 
+DEBUG:root:mult returned 50.
+
+DEBUG:root:2020-07-15 13:18:26.109353
+DEBUG:root:add running. 
+DEBUG:root:add returned 15.
+
+DEBUG:root:2020-07-15 13:18:26.110352
+DEBUG:root:mult running. 
+DEBUG:root:mult returned 50.
+
